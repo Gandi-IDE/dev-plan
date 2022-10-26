@@ -1,5 +1,9 @@
 # Development Plan
 
+Here is the developent plan tracking log of the Gandi IDE and Cocrea team, all develop tasks are recorded here and kept updated. If you have any questions or suggestions, please join our discord server to ask.
+
+- [discord server](https://discord.gg/QVUyFEQres)
+- [cocrea](https://cocrea.world/)
 
 
 ## Types of changes
