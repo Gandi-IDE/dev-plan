@@ -20,8 +20,8 @@
 
 ## Team member
 
-- **Gandi IDE**:
-- **Cocrea**:
+- **Gandi IDE**: HCN
+- **Cocrea**: xingqi
 
 ## 2022Y10M4W
 ### Plan
