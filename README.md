@@ -33,6 +33,7 @@ Here is the developent plan tracking log of the Gandi IDE and Cocrea team, All i
 | Reporter      | Description   | owner         | status        | deadline      |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | xingqi  | fix website login error  | xingqi  | In Progress  |2022-10-30|
+| Jamin  | fix media Ext loading error  | HCN.  | In Progress  |2022-10-30|
 
 ### Removed
 - 
