@@ -25,7 +25,7 @@ Here is the developent plan tracking log of the Gandi IDE and Cocrea team, All i
 ## Team member
 
 - **Gandi IDE**: HCN
-- **Cocrea**: xingqi
+- **Cocrea**: collin
 
 ## 2022Y10M4W
 ### Plan
