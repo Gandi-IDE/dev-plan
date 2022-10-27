@@ -25,7 +25,7 @@ Here is the developent plan tracking log of the Gandi IDE and Cocrea team, All i
 ## Team member
 
 - **Gandi IDE**: HCN
-- **Cocrea**: collin、LJ
+- **Cocrea**: Collin, LJ
 
 ## 2022Y10M4W
 ### Plan
@@ -33,7 +33,7 @@ Here is the developent plan tracking log of the Gandi IDE and Cocrea team, All i
 | Reporter      | Description   | owner         | status        | deadline      |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Jamin  | fix media Ext loading error  | HCN.  | In Progress  |2022-10-30|
-| Collin  | subscription failed in homepage position  | LJ  | Open  |2022-10-27|
+| Collin  | subscription failed in homepage position  | LJ  | Done  |2022-10-27|
 | Collin  | visitor cannot login by google account  | LJ  | Done  |2022-10-26|
 
 ### Removed
@@ -47,3 +47,4 @@ Here is the developent plan tracking log of the Gandi IDE and Cocrea team, All i
 
 ### Fixed
 - Fixed: visitor cannot login by google account 
+- Fixed: subscription failed in homepage
