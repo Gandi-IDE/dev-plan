@@ -36,7 +36,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Collin  | subscription failed in homepage position  | LJ  | Done  |2022-10-27|
 | Collin  | visitor cannot login by google account  | LJ  | Done  |2022-10-26|
 | Prins  | integration RixxyX extension to Gandi IDE  | HCN  | Open  ||
-| labrosggv  | fix broken webpage of Gandi IDE  | Jamin  | In progress  |2022-10-28|
+| labrosggv  | fix broken link on Gandi IDE website  | Jamin  | Done  |2022-10-28|
 
 ### Removed
 - 
@@ -50,3 +50,4 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 ### Fixed
 - Fixed: visitor cannot login by google account 
 - Fixed: subscription failed in homepage
+- Fixed：fix broken link on Gandi IDE website
