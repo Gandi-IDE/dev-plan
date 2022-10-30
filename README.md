@@ -37,6 +37,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Collin  | visitor cannot login by google account  | LJ  | Done  |2022-10-26|
 | Prins  | integration RixxyX extension to Gandi IDE  | HCN  | Open  ||
 | labrosggv  | fix broken link on Gandi IDE website  | Jamin  | Done  |2022-10-28|
+| labrosggv  | guide doc for how to make a scratch extension  | HCN  | Open  |2022-10-28|
 
 ### Removed
 - 
