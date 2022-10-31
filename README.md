@@ -27,28 +27,30 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ
 
-## 2022Y10M4W
+## 2022Y11M1W
 ### Plan
 
 | Reporter      | Description   | owner         | status        | deadline      |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Jamin  | fix media Ext loading error  | HCN.  | In progress  |2022-10-30|
-| Collin  | subscription failed in homepage position  | LJ  | Done  |2022-10-27|
-| Collin  | visitor cannot login by google account  | LJ  | Done  |2022-10-26|
-| Prins  | integration RixxyX extension to Gandi IDE  | HCN  | Open  ||
-| labrosggv  | fix broken link on Gandi IDE website  | Jamin  | Done  |2022-10-28|
-| labrosggv  | guide doc for how to make a scratch extension  | HCN  | Open  |2022-10-28|
+| Prins  | integration RixxyX extension to Gandi IDE  | HCN  | Open  |2022-11-04|
+| labrosggv  | guide doc for how to make a scratch extension  | HCN  | Open  |2022-11-04|
+| mlnitoon2  | analyze bot doesn't work   | ZJ  | Open  |2022-11-02|
+| Portraito  | using arrow keys  | HCN  | Open  |2022-11-02|
 
-### Removed
-- 
 
-### Added
-- 
+## 2022Y10M4W
 
-### Changed
-- 
+### Community Contributor board(2022-10-24 ~ 2022-10-30)
+- @EndrYT :  2 💡
+- @labrosggv : 1 🐛  1 💡
+- @El Tardo The Wizardo : 1 🐛
+- @mlnitoon2 : 1 🐛
+- @Prins : 1 💡
+- @RealGTheKid : 1 💡
+
 
 ### Fixed
-- Fixed: visitor cannot login by google account 
-- Fixed: subscription failed in homepage
-- Fixed：fix broken link on Gandi IDE website
+- Fixed: visitor cannot login by google account( reportor: El Tardo The Wizardo)
+- Fixed: subscription failed in homepage( reportor: collin)
+- Fixed：fix broken link on Gandi IDE website( reportor: labrosggv )
