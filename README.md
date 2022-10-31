@@ -37,6 +37,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | labrosggv  | guide doc for how to make a scratch extension  | HCN  | Open  |2022-11-04| |
 | mlnitoon2  | analyze bot doesn't work   | ZJ  | Open  |2022-11-02| |
 | Portraito  | using arrow keys  | HCN  | Open  |2022-11-02| 2011-10-31 |
+| @手羽先  | There is a bug about the project name in Japanese in the report  | ZJ  | Open  |2022-11-02| 2011-10-31 |
 
 
 ## 2022Y10M4W
