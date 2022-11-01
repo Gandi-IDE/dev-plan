@@ -36,7 +36,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Prins  | integration RixxyX extension to Gandi IDE  | HCN  | Open  |2022-11-04| |
 | labrosggv  | guide doc for how to make a scratch extension  | HCN  | Open  |2022-11-04| |
 | Portraito  | using arrow keys  | HCN  | Open  |2022-11-02| 2011-10-31 |
-| @手羽先  | There is a bug about the project name in Japanese in the report  | ZJ  | Open  |2022-11-02| 2011-10-31 |
+| @手羽先  | There is a bug about the project name in Japanese in the report  | ZJ  | Open  |2022-11-02| 2022-10-31 |
+| @labrosggv  | unable to load the image in the faq page  | ZHL  | Open  |2022-11-02| 2022-11-1 |
+
 
 ### Fixed
 - Fixed: analyze bot doesn't work (reporter: @mlnitoon2)
