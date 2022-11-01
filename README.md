@@ -41,7 +41,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 
 ### Fixed
-- Fixed: analyze bot doesn't work (reporter: @mlnitoon2 )
 - Fixed: unable to load the image in the faq page ( reporter: @labrosggv)
 
 
@@ -60,3 +59,4 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - Fixed: visitor cannot login by google account( reportor: El Tardo The Wizardo)
 - Fixed: subscription failed in homepage( reportor: collin)
 - Fixed：fix broken link on Gandi IDE website( reportor: labrosggv )
+- Fixed: analyze bot doesn't work (reporter: @mlnitoon2 )
