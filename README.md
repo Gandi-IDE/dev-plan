@@ -40,7 +40,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @手羽先  | There is a bug about the project name in Japanese in the report  | ZJ  | Open  |2022-11-02| 2022-10-31 |
 | @labrosggv  | unable to load the image in the faq page  | oxVision.eth  | Done  |2022-11-01| 2022-11-1 |
 | @DarkerGEN  | a costume size is too larger    | Jamin  | Done  |2022-11-03| 2022-11-04 |
-| @Cyke  | Multilingual support for gandi-ide    | HCN  | Open  |2022-11-06| TBD. |
+| @Cyke  | Multilingual support for gandi-ide    | HCN  | Open |TBD.|  |
 | @EndrYT  | DC permission issue | oxVision.eth  | Done  |2022-11-06| 2022-11-06 |
 | @poprock  | gandi edit bug(if a person logs in while in a collab session, any sprite the "visitor" user was on before they logged in would be locked forever, since the visitor user no longer exists and gandi still thinks this user is editing the sprite.) | HCN  | Open  |2022-11-15|  |
 
