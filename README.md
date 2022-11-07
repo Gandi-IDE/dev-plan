@@ -40,11 +40,13 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @labrosggv  | unable to load the image in the faq page  | oxVision.eth  | Done  |2022-11-01| 2022-11-1 |
 | @DarkerGEN  | a costume size is too larger    | Jamin  | Done  |2022-11-03| 2022-11-04 |
 | @Cyke  | Multilingual support for gandi-ide    | HCN  | Open  |2022-11-06| 2022-11-08 |
+| @EndrYT  | DC permission issue | oxVision.eth  | Done  |2022-11-06| 2022-11-06 |
 
 
 ### Fixed
 - Fixed: unable to load the image in the faq page ( reporter: @labrosggv)
 - Fixed: some costumes size is too larger ( reporter: @DarkerGEN )
+- Fixed: DC permission issue ( reporter: @EndrYT )
 
 
 ## 2022Y10M4W
