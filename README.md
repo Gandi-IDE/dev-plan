@@ -32,22 +32,32 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| Jamin  | fix media Ext loading error  | HCN.  | Done  |2022-10-30| |
-| Prins  | integration RixxyX extension to Gandi IDE  | HCN  | Open  |2022-11-14| |
-| labrosggv  | guide doc for how to make a scratch extension https://github.com/Gandi-IDE/custom-extension/tree/developer  | HCN  | Done  |2022-11-04| |
-| Portraito  | one bug I've noticed is using arrow keys to change outline in the costume editor can be done once before it stops editing the outline  | HCN  | Done  |2022-11-04|
-| @手羽先  | There is a bug about the project name in Japanese in the report  | ZJ  | Open  |2022-11-02| 2022-10-31 |
-| @labrosggv  | unable to load the image in the faq page  | oxVision.eth  | Done  |2022-11-01| 2022-11-1 |
-| @DarkerGEN  | a costume size is too larger    | Jamin  | Done  |2022-11-03| 2022-11-04 |
-| @Cyke  | Multilingual support for gandi-ide    | HCN  | Open |TBD.|  |
-| @EndrYT  | DC permission issue | oxVision.eth  | Done  |2022-11-06| 2022-11-06 |
+| @手羽先  | There is a bug about the project name in Japanese in the report  | ZJ  | Open  | 2022-10-31|  |
+| @Cyke  | Multilingual support for gandi-ide    | HCN  | Open | 2022-11-06 |  |
 | @poprock  | gandi edit bug(if a person logs in while in a collab session, any sprite the "visitor" user was on before they logged in would be locked forever, since the visitor user no longer exists and gandi still thinks this user is editing the sprite.) | HCN  | Open  |2022-11-15|  |
 
+### Community Contributor board(2022/10/31~2022/11/06)
+- @Cyke  : 1 💡
+- @DarkerGEN : 1 🐛
+- @EndrYT : 1 🐛
+- @labrosggv : 1 🐛
+- @Martinelplayz : 1 💡
+- @poprock : 1 🐛
+- @Portraito : 1 🐛
+- @手羽先 : 1 🐛
+
+
+### Added
+
+- Added: integration RixxyX extension to Gandi IDE ( reporter: Prins )
+- Added: guide doc for how to make a scratch extension ( reporter: labrosggv )
 
 ### Fixed
 - Fixed: unable to load the image in the faq page ( reporter: @labrosggv)
 - Fixed: some costumes size is too larger ( reporter: @DarkerGEN )
 - Fixed: DC permission issue ( reporter: @EndrYT )
+- Fixed: fix media Ext loading error ( reporter: @Jamin )
+- Fixed: using arrow keys to change outline in the costume editor can be done once before it stops editing the outline ( reporter: Portraito )
 
 
 ## 2022Y10M4W
