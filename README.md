@@ -27,6 +27,13 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ
 
+## 2022Y11M2W
+### Plan
+
+| Reporter      | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @Martinelplayz  | bug : i was using opera, and moving from the page to page is difficult on gandi because i kept being told to sign in, despite the fact i WAS signed in. almost every page i entered would act like i was signed out until i reload the page. including the editor  | HCN  | Open  | 2022-11-07 |  |
+
 ## 2022Y11M1W
 ### Plan
 
