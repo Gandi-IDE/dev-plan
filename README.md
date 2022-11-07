@@ -30,13 +30,12 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 ## 2022Y11M1W
 ### Plan
 
-| Reporter      | Description   | owner         | status        | deadline      | created_at |
+| Reporter      | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | Jamin  | fix media Ext loading error  | HCN.  | Done  |2022-10-30| |
 | Prins  | integration RixxyX extension to Gandi IDE  | HCN  | Open  |2022-11-14| |
 | labrosggv  | guide doc for how to make a scratch extension https://github.com/Gandi-IDE/custom-extension/tree/developer  | HCN  | done  |2022-11-04| |
-| Portraito  | one bug I've noticed is using arrow keys to change outline in the costume editor can be done once before it stops editing the outline  | HCN  | done  |2022-11-04| |
-|| Can't unpublish  | HCN  | Open  |2022-11-02| 2011-10-31 |
+| Portraito  | one bug I've noticed is using arrow keys to change outline in the costume editor can be done once before it stops editing the outline  | HCN  | done  |2022-11-04|
 | @手羽先  | There is a bug about the project name in Japanese in the report  | ZJ  | Open  |2022-11-02| 2022-10-31 |
 | @labrosggv  | unable to load the image in the faq page  | oxVision.eth  | Done  |2022-11-01| 2022-11-1 |
 | @DarkerGEN  | a costume size is too larger    | Jamin  | Done  |2022-11-03| 2022-11-04 |
