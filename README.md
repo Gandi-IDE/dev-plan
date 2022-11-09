@@ -35,7 +35,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Martinelplayz  | bug | bug : i was using opera, and moving from the page to page is difficult on gandi because i kept being told to sign in, despite the fact i WAS signed in. almost every page i entered would act like i was signed out until i reload the page. including the editor  | HCN  | Open  | 2022-11-07 |  |
 | @poprock  | suggestion | develop a manage tool to read all current user data  | linxin  | Open  | 2022-11-07 |  |
 | @Wokafish  | suggestion | AI scratch extension support  | Jamin  | Open  | 2022-11-07 |  |
-| @poprock  | bug | gandi deleting any depulicates  | xiaoqiang  | Open  | 2022-11-08 |  |
+| @poprock  | bug | gandi deleting any duplicates  | xiaoqiang  | Open  | 2022-11-08 |  |
 
 ## 2022Y11M1W
 ### Plan
