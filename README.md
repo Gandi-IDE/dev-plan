@@ -37,6 +37,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Wokafish  | suggestion | AI scratch extension support  | Jamin  | Open  | 2022-11-07 |  |
 | @poprock  | bug | gandi deleting any duplicates  | xiaoqiang  | Open  | 2022-11-08 |  |
 | @labrosggv  | bug | Create a global block in a module.Move the global block in any other sprite.Remove the module.Edit the global block.You will have a global block in a normal sprite that is called undefined.block name.| HCN  | Open | 2022-11-09 |  |
+| @labrosggv  | bug | command permission issue of discord | 0xVision.eth  | Done  | 2022-11-09 | 2022-11-09 | 
 
 ## 2022Y11M1W
 ### Plan
