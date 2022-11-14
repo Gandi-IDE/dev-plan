@@ -54,6 +54,16 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @CoolScratcher  | suggestion | server suggestion: don't name all the bots "gandi bot," it looks weird | 0xVision.eth  | Done  | 2022-11-11 | 2022-11-14 | 
 | @EndrYT  | bug | can't use the collab things  | HCN  | Open  | 2022-11-12 |  |
 
+### **Community Contributor board(2022/11/07~2022/11/13)**
+- @labrosggv#2097  : 2 :bulb: 2  :bug:
+- @poprock#0947  : 2 :bulb: 1  :bug:
+- @CoolScratcher#7777  : 1 :bulb:
+- @Martinelplayz#4062  : 1 :bug:
+- @Wokafish#0238  : 1 :bulb:
+- @iceler21#7657  : 1 :bug:
+- @Portraito#6093  : 1 :bug:
+- @EndrYT  : 1 :bug:
+
 ## 2022Y11M1W
 ### Plan
 
