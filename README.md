@@ -33,6 +33,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @CoolScratcher  | bug | getting problem a lot whenever I use Quake  | HCN  | Open  | 2022-11-14 |  |
+| @CoolScratcher  | bug | costume editor doesn't fit gandi  | HCN  | Open  | 2022-11-14 |  |
 
 ## 2022Y11M2W
 ### Plan
@@ -47,6 +48,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @labrosggv  | bug | command permission issue of discord | 0xVision.eth  | Done  | 2022-11-09 | 2022-11-09 | 
 | @labrosggv  | suggestion | The new gui covers the arrows in the extensions sidebar | HCN  | Open  | 2022-11-12 |  | 
 | @iceler21  | bug | The invite button doesn't work and it's underneath the game screen! No matter what I do, it won't work And my old projects won't load | HCN  | Open  | 2022-11-12 |  | 
+| @Portraito  | bug | cannot loading projectd | HCN  | Open  | 2022-11-12 |  | 
 
 ## 2022Y11M1W
 ### Plan
