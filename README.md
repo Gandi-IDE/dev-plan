@@ -49,6 +49,8 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @labrosggv  | suggestion | The new gui covers the arrows in the extensions sidebar | HCN  | Open  | 2022-11-12 |  | 
 | @iceler21  | bug | The invite button doesn't work and it's underneath the game screen! No matter what I do, it won't work And my old projects won't load | HCN  | Open  | 2022-11-12 |  | 
 | @Portraito  | bug | cannot loading projectd | HCN  | Open  | 2022-11-12 |  | 
+| @poprock  | suggestion | better vector editor and support for google fonts and custom fonts for text boxes | HCN  | Open  | 2022-11-12 |  |
+| @labrosggv  | suggestion | translation suggestions | HCN  | Open  | 2022-11-13 |  | 
 
 ## 2022Y11M1W
 ### Plan
