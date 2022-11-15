@@ -52,7 +52,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @poprock  | suggestion | better vector editor and support for google fonts and custom fonts for text boxes | HCN  | Open  | 2022-11-12 |  |
 | @labrosggv  | suggestion | translation suggestions | collin  | Done  | 2022-11-13 | 2022-11-15 | 
 | @CoolScratcher  | suggestion | server suggestion: don't name all the bots "gandi bot," it looks weird | 0xVision.eth  | Done  | 2022-11-11 | 2022-11-14 | 
-| @EndrYT  | bug | can't use the collab things  | HCN  | Open  | 2022-11-12 |  |
+| @EndrYT  | bug | can't use the collab things  | HCN  | Done  | 2022-11-12 | 2022-11-15 |
 
 ### **Community Contributor board(2022/11/07~2022/11/13)**
 - @labrosggv#2097  : 2 :bulb: 2  :bug:
