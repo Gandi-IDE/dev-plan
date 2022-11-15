@@ -25,7 +25,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 ## Team member
 
 - **Gandi IDE**: HCN
-- **Cocrea**: Collin, LJ
+- **Cocrea**: Collin, LJ, linxin
 
 ## 2022Y11M3W
 ### Plan
@@ -50,7 +50,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @iceler21  | bug | The invite button doesn't work and it's underneath the game screen! No matter what I do, it won't work And my old projects won't load | HCN  | Open  | 2022-11-12 |  | 
 | @Portraito  | bug | cannot loading projectd | HCN  | Open  | 2022-11-12 |  | 
 | @poprock  | suggestion | better vector editor and support for google fonts and custom fonts for text boxes | HCN  | Open  | 2022-11-12 |  |
-| @labrosggv  | suggestion | translation suggestions | HCN  | Open  | 2022-11-13 |  | 
+| @labrosggv  | suggestion | translation suggestions | linxin  | Open  | 2022-11-13 |  | 
 | @CoolScratcher  | suggestion | server suggestion: don't name all the bots "gandi bot," it looks weird | 0xVision.eth  | Done  | 2022-11-11 | 2022-11-14 | 
 | @EndrYT  | bug | can't use the collab things  | HCN  | Open  | 2022-11-12 |  |
 
