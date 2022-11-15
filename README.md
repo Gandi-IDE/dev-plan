@@ -47,7 +47,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @labrosggv  | bug | Create a global block in a module.Move the global block in any other sprite.Remove the module.Edit the global block.You will have a global block in a normal sprite that is called undefined.block name.| HCN  | Open | 2022-11-09 |  |
 | @labrosggv  | bug | command permission issue of discord | 0xVision.eth  | Done  | 2022-11-09 | 2022-11-09 | 
 | @labrosggv  | suggestion | The new gui covers the arrows in the extensions sidebar | HCN  | Open  | 2022-11-12 |  | 
-| @iceler21  | bug | The invite button doesn't work and it's underneath the game screen! No matter what I do, it won't work And my old projects won't load | HCN  | Open  | 2022-11-12 |  | 
+| @iceler21  | bug | The invite button doesn't work and it's underneath the game screen! No matter what I do, it won't work And my old projects won't load | HCN  | Done  | 2022-11-12 | 2022-11-15 | 
 | @Portraito  | bug | cannot loading projectd | HCN  | Open  | 2022-11-12 |  | 
 | @poprock  | suggestion | better vector editor and support for google fonts and custom fonts for text boxes | HCN  | Open  | 2022-11-12 |  |
 | @labrosggv  | suggestion | translation suggestions | collin  | Done  | 2022-11-13 | 2022-11-15 | 
