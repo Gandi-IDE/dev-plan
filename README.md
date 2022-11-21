@@ -37,7 +37,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @CoolScratcher  | suggestion | costume editor doesn't fit gandi  | HCN  | Open  | 2022-11-14 |  |
 | @poprock  | suggestion | make there be an option when uploading a project file (.sb3) to make it replace the current project or make a new one  | HCN  | Open  | 2022-11-15 |  |
 | @popkorn  | bug | version control not working  | xiqoqiang | Open  | 2022-11-15 |  |
-| @zep-excpoint  | bug | cant use extension hat blocks with booleans or strings  | xiqoqiang | Done  | 2022-11-16 | 2022-11-16 |
+| @zep-excpoint  | bug | cant use extension hat blocks with booleans or strings  | xiqoqiang | Open  | 2022-11-16 |  |
 | @iceler21  | bug | Old projects getting deleted  | HCN | Open  | 2022-11-15 |  |
 | @HarlanX  | bug | Black-screen bug  | HCN | Open  | 2022-11-17 |  |
 | @AdamTheDumbPerson  | bug | mmo bug  | HCN | Open  | 2022-11-18 |  |
