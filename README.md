@@ -63,19 +63,19 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - Fixed: editor is broken (reporter: Xason/popkorn)
 
 ### Community Contributor board(2022/11/14~2022/11/20)
-@popkorn  : 3 💡 2  🐛
-@CoolScratcher : 3 💡 1  🐛
-@PerlinNoise   : 2 💡 2  🐛
-@AdamTheDumbPerson  : 2 💡  1 🐛
-@iceler21  : 1 💡 1 🐛
-@Costope21  : 2 💡
-@labrosggv  : 1  🐛
-@zep-excpoint  : 1  🐛
-@HarlanX  : 1 🐛
-@Xason  : 1 🐛
-@dandan  : 1 🐛
-@EndrYT  : 1 💡
-@☭ Mewster ☭  : 1 💡
+- @popkorn  : 3 💡 2  🐛
+- @CoolScratcher : 3 💡 1  🐛
+- @PerlinNoise   : 2 💡 2  🐛
+- @AdamTheDumbPerson  : 2 💡  1 🐛
+- @iceler21  : 1 💡 1 🐛
+- @Costope21  : 2 💡
+- @labrosggv  : 1  🐛
+- @zep-excpoint  : 1  🐛
+- @HarlanX  : 1 🐛
+- @Xason  : 1 🐛
+- @dandan  : 1 🐛
+- @EndrYT  : 1 💡
+- @☭ Mewster ☭  : 1 💡
 
 ## 2022Y11M2W
 ### Plan
