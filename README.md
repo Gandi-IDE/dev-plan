@@ -36,15 +36,12 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @CoolScratcher  | bug | getting problem a lot whenever I use Quake  | HCN  | Open  | 2022-11-14 |  |
 | @CoolScratcher  | suggestion | costume editor doesn't fit gandi  | HCN  | Open  | 2022-11-14 |  |
 | @poprock  | suggestion | make there be an option when uploading a project file (.sb3) to make it replace the current project or make a new one  | HCN  | Open  | 2022-11-15 |  |
-| @popkorn  | bug | gandi editor is down  | HCN  | Done  | 2022-11-19 | 2022-11-19 |
-| @labrosggv  | bug | faq channel double section  | 0xVision.eth | Done  | 2022-11-18 | 2022-11-18 |
 | @popkorn  | bug | version control not working  | xiqoqiang | Open  | 2022-11-15 |  |
 | @zep-excpoint  | bug | cant use extension hat blocks with booleans or strings  | xiqoqiang | Done  | 2022-11-16 | 2022-11-16 |
 | @iceler21  | bug | Old projects getting deleted  | HCN | Open  | 2022-11-15 |  |
 | @HarlanX  | bug | Black-screen bug  | HCN | Open  | 2022-11-17 |  |
 | @AdamTheDumbPerson  | bug | mmo bug  | HCN | Open  | 2022-11-18 |  |
 | @popkorn  | suggestion | download a file in the cloud storage through the project | HCN | Open  | 2022-11-17 |  |
-| @Xason  | bug | editor is broken | HCN | Done  | 2022-11-19 |  |
 | @dandan  | bug | gandi IDE is unusable on chromebooks right now | HCN | Open  | 2022-11-19 |  |
 | @PerlinNoise  | bug | Random error | HCN | Open  | 2022-11-20 |  |
 | @PerlinNoise  | bug | Can't view code properly | HCN | Open  | 2022-11-20 |  |
@@ -61,6 +58,24 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @AdamTheDumbPerson  | suggestion | Suggestion for dolly | HCN | Open  | 2022-11-18 |  |
 | @AdamTheDumbPerson  | suggestion | Suggestion for MMO | HCN | Open  | 2022-11-18 |  |
 
+### Fixed
+- Fixed: faq channel double section (reporter: labrosggv)
+- Fixed: editor is broken (reporter: Xason/popkorn)
+
+### Community Contributor board(2022/11/14~2022/11/20)
+@popkorn  : 3 💡 2  🐛
+@CoolScratcher : 3 💡 1  🐛
+@PerlinNoise   : 2 💡 2  🐛
+@AdamTheDumbPerson  : 2 💡  1 🐛
+@iceler21  : 1 💡 1 🐛
+@Costope21  : 2 💡
+@labrosggv  : 1  🐛
+@zep-excpoint  : 1  🐛
+@HarlanX  : 1 🐛
+@Xason  : 1 🐛
+@dandan  : 1 🐛
+@EndrYT  : 1 💡
+@☭ Mewster ☭  : 1 💡
 
 ## 2022Y11M2W
 ### Plan
