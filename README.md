@@ -46,7 +46,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Wokafish  | suggestion | AI scratch extension support  | Jamin  | Open  | 2022-11-07 |  |
 | @poprock  | bug | gandi deleting any duplicates  | xiaoqiang  | Open  | 2022-11-08 |  |
 | @labrosggv  | bug | Create a global block in a module.Move the global block in any other sprite.Remove the module.Edit the global block.You will have a global block in a normal sprite that is called undefined.block name.| HCN  | Open | 2022-11-09 |  |
-| @labrosggv  | suggestion | The new gui covers the arrows in the extensions sidebar | HCN  | Open  | 2022-11-12 |  | 
 | @Portraito  | bug | cannot loading projectd | HCN  | Open  | 2022-11-12 |  | 
 | @poprock  | suggestion | better vector editor and support for google fonts and custom fonts for text boxes | HCN  | Open  | 2022-11-12 |  |
 | @CoolScratcher  | suggestion | server suggestion: don't name all the bots "gandi bot," it looks weird | 0xVision.eth  | Done  | 2022-11-11 | 2022-11-14 | 
@@ -56,6 +55,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - Fixed: translation suggestions (reporter: labrosggv)
 - Fixed: The invite button doesn't work (reporter: iceler21)
 - Fixed: command permission issue of discord (reporter: labrosggv)
+- Fixed: The new gui covers the arrows in the extensions sidebar (reporter: labrosggv)
 
 ### **Community Contributor board(2022/11/07~2022/11/13)**
 - @labrosggv#2097  : 2 :bulb: 2  :bug:
