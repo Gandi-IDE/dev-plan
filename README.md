@@ -35,6 +35,31 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @CoolScratcher  | bug | getting problem a lot whenever I use Quake  | HCN  | Open  | 2022-11-14 |  |
 | @CoolScratcher  | suggestion | costume editor doesn't fit gandi  | HCN  | Open  | 2022-11-14 |  |
 | @poprock  | suggestion | make there be an option when uploading a project file (.sb3) to make it replace the current project or make a new one  | HCN  | Open  | 2022-11-15 |  |
+| @popkorn  | bug | gandi editor is down  | HCN  | Done  | 2022-11-19 | 2022-11-19 |
+| @labrosggv  | bug | faq channel double section  | 0xVision.eth | Done  | 2022-11-18 | 2022-11-18 |
+| @popkorn  | bug | version control not working  | xiqoqiang | Open  | 2022-11-15 |  |
+| @zep-excpoint  | bug | cant use extension hat blocks with booleans or strings  | xiqoqiang | Done  | 2022-11-16 | 2022-11-16 |
+| @iceler21  | bug | Old projects getting deleted  | HCN | Open  | 2022-11-15 |  |
+| @HarlanX  | bug | Black-screen bug  | HCN | Open  | 2022-11-17 |  |
+| @AdamTheDumbPerson  | bug | mmo bug  | HCN | Open  | 2022-11-18 |  |
+| @popkorn  | suggestion | download a file in the cloud storage through the project | HCN | Open  | 2022-11-17 |  |
+| @Xason  | bug | editor is broken | HCN | Done  | 2022-11-19 |  |
+| @dandan  | bug | gandi IDE is unusable on chromebooks right now | HCN | Open  | 2022-11-19 |  |
+| @PerlinNoise  | bug | Random error | HCN | Open  | 2022-11-20 |  |
+| @PerlinNoise  | bug | Can't view code properly | HCN | Open  | 2022-11-20 |  |
+| @EndrYT  | suggestion | Add a mod role to the server | collin | Open  | 2022-11-18 |  |
+| @PerlinNoise  | suggestion | 3D game extension | HCN | Open  | 2022-11-20 |  |
+| @PerlinNoise  | suggestion | 2D world generation | HCN | Open  | 2022-11-20 |  |
+| @Mewster  | suggestion | Add a packager feature | HCN | Open  | 2022-11-18 |  |
+| @Costope21  | suggestion | .TTF imports | HCN | Open  | 2022-11-18 |  |
+| @Wokafish  | suggestion | Multiple mouse cursors | HCN | Open  | 2022-11-18 |  |
+| @Costope21  | suggestion | Gandi IDE as an App | HCN | Open  | 2022-11-18 |  |
+| @popkorn  | suggestion | add an editor timed out error | HCN | Open  | 2022-11-18 |  |
+| @CoolScratcher  | suggestion | NG leaderboard | HCN | Open  | 2022-11-18 |  |
+| @iceler21  | suggestion | Scratch Addons and Turbowarp features support | HCN | Open  | 2022-11-18 |  |
+| @AdamTheDumbPerson  | suggestion | Suggestion for dolly | HCN | Open  | 2022-11-18 |  |
+| @AdamTheDumbPerson  | suggestion | Suggestion for MMO | HCN | Open  | 2022-11-18 |  |
+
 
 ## 2022Y11M2W
 ### Plan
