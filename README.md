@@ -25,7 +25,14 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 ## Team member
 
 - **Gandi IDE**: HCN
-- **Cocrea**: Collin, LJ, linxin
+- **Cocrea**: Collin, LJ, linxin, jagger
+
+## 2022Y11M4W
+### Plan
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @PerlinNoise  | bug | cannot search project  | jagger  | Done  | 2022-11-22 | 2022-11-22 |
 
 ## 2022Y11M3W
 ### Plan
