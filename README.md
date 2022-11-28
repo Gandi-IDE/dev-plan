@@ -33,13 +33,43 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @PerlinNoise  | bug | cannot search project  | jagger  | Done  | 2022-11-22 | 2022-11-22 |
+| @Wokafish  | bug | Website scrolling on tablet  | HCN  | Open  | 2022-11-26 |  |
+| @CupStudios  | bug | Project overwrites over another project  | HCN  | Open  | 2022-11-27 |  |
+| @PerlinNoise  | bug | Some icons don't load  | HCN  | Open  | 2022-11-26 |  |
+| @labrosggv  | bug | Missing translation  | HCN  | Open  | 2022-11-25 |  |
+| @popkorn  | bug | project taking very long to load or not loading at all on cocrea  | HCN  | Open  | 2022-11-25 |  |
+| @popkorn  | bug | gandi mmo extension x and y not working  | HCN  | Open  | 2022-11-25 |  |
+| @демчук майнкрафт  | bug | loading scratch project failed  | linxin  | Open  | 2022-11-26 |  |
+| @popkorn  | bug | loading scratch project failed  | linxin  | Open  | 2022-11-26 |  |
+| @labrosggv  | bug | Missing translation Entry  | HCN  | Open  | 2022-11-25 |  |
+| @labrosggv  | bug | Motion and Looks Category blocks appear in modules    | HCN  | Open  | 2022-11-25 |  |
+| @wzy1tenyears  | bug | can't click and run in modules    | HCN  | Open  | 2022-11-22 |  |
+| @HexMan  | suggestion | have an API wrapper     | HCN  | Open  | 2022-11-27 |  |
+| @DeMelBros (Muya)  | suggestion | 35 max member collaboration feature | HCN  | Open  | 2022-11-24 |  |
+| @labrosggv  | suggestion | Private variables in backdrop | HCN  | Open  | 2022-11-26 |  |
+| @labrosggv  | suggestion | Private variables in backdrop | HCN  | Open  | 2022-11-26 |  |
+| @labrosggv  | suggestion | New menu type for extension developers | HCN  | Open  | 2022-11-26 |  |
+| @popkorn  | suggestion | featured voting | Jamin  | Open  | 2022-11-23 |  |
+| @zep-excpoint  | suggestion | volume slider on side bar | linxin  | Open  | 2022-11-23 |  |
+| @labrosggv  | suggestion | Canvas extension addition | HCN  | Open  | 2022-11-25 |  |
+| @labrosggv  | suggestion | Roles given for things people do| HCN  | Open  | 2022-11-24 |  |
+| @popkorn  | suggestion | extension - controller support| HCN  | Open  | 2022-11-21 |  |
+| @☭ Mewster ☭  | suggestion | Extension Idea - AI Creator | HCN  | Open  | 2022-11-21 |  |
+| @popkorn  | suggestion | help forum | collin  | Open  | 2022-11-23 |  |
+| @Costope21  | suggestion | The packager should package 16:9 screen size | HCN  | Open  | 2022-11-22 |  |
+| @winwinlmfao  | suggestion | want a channel where people can look for people to help their projects | collin  | Open  | 2022-11-22 |  |
+| @wzy1tenyears  | suggestion | The windows in gandi aren't fit edge | collin  | Open  | 2022-11-22 |  |
+| @labrosggv  | suggestion | use a command that would generates a random project idea | ZJ  | Open  | 2022-11-22 |  |
+| @NotSoPTBP  | suggestion | 16 9 canvas size | HCN  | Open  | 2022-11-22 |  |
+| @Martinelplayz  | suggestion | suggest an update to the fermi extension that allows general limits to be removed | HCN  | Open  | 2022-11-21 |  |
+| @labrosggv  | suggestion | better points commands | HCN  | Open  | 2022-11-21 |  |
 
 ## 2022Y11M3W
 ### Plan
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @CoolScratcher  | suggestion | translation suggestions  | collin  | Open  | 2022-11-19 |  |
+| @CoolScratcher  | suggestion | translation suggestions  | collin  | Done  | 2022-11-19 | 2022-11-22 |
 | @CoolScratcher  | bug | getting problem a lot whenever I use Quake  | HCN  | Open  | 2022-11-14 |  |
 | @CoolScratcher  | suggestion | costume editor doesn't fit gandi  | HCN  | Open  | 2022-11-14 |  |
 | @poprock  | suggestion | make there be an option when uploading a project file (.sb3) to make it replace the current project or make a new one  | HCN  | Open  | 2022-11-15 |  |
