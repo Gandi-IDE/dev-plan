@@ -49,7 +49,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @popkorn  | suggestion | featured voting | Jamin  | Open  | 2022-11-23 |  |
 | @zep-excpoint  | suggestion | volume slider on side bar | linxin  | Open  | 2022-11-23 |  |
 | @labrosggv  | suggestion | Canvas extension addition | HCN  | Open  | 2022-11-25 |  |
-| @labrosggv  | suggestion | Roles given for things people do| HCN  | Open  | 2022-11-24 |  |
+| @☭ Mewster ☭  | suggestion | Roles given for things people do| HCN  | Open  | 2022-11-24 |  |
 | @popkorn  | suggestion | extension - controller support| HCN  | Open  | 2022-11-21 |  |
 | @☭ Mewster ☭  | suggestion | Extension Idea - AI Creator | HCN  | Open  | 2022-11-21 |  |
 | @popkorn  | suggestion | help forum | collin  | Open  | 2022-11-23 |  |
