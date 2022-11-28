@@ -32,7 +32,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @PerlinNoise  | bug | cannot search project  | jagger  | Done  | 2022-11-22 | 2022-11-22 |
 | @Wokafish  | bug | Website scrolling on tablet  | HCN  | Open  | 2022-11-26 |  |
 | @CupStudios  | bug | Project overwrites over another project  | HCN  | Open  | 2022-11-27 |  |
 | @PerlinNoise  | bug | Some icons don't load  | HCN  | Open  | 2022-11-26 |  |
@@ -64,12 +63,14 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Martinelplayz  | suggestion | suggest an update to the fermi extension that allows general limits to be removed | HCN  | Open  | 2022-11-21 |  |
 | @labrosggv  | suggestion | better points commands | HCN  | Open  | 2022-11-21 |  |
 
+### Fixed
+- Fixed: cannot search project in Cocrea (reporter: PerlinNoise)
+
 ## 2022Y11M3W
 ### Plan
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @CoolScratcher  | suggestion | translation suggestions  | collin  | Done  | 2022-11-19 | 2022-11-22 |
 | @CoolScratcher  | bug | getting problem a lot whenever I use Quake  | HCN  | Open  | 2022-11-14 |  |
 | @CoolScratcher  | suggestion | costume editor doesn't fit gandi  | HCN  | Open  | 2022-11-14 |  |
 | @poprock  | suggestion | make there be an option when uploading a project file (.sb3) to make it replace the current project or make a new one  | HCN  | Open  | 2022-11-15 |  |
@@ -98,6 +99,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 ### Fixed
 - Fixed: faq channel double section (reporter: labrosggv)
 - Fixed: editor is broken (reporter: Xason/popkorn)
+- Fixed: translation suggestions (reporter: @CoolScratcher)
 
 ### Community Contributor board(2022/11/14~2022/11/20)
 - @popkorn  : 3 💡 2  🐛
