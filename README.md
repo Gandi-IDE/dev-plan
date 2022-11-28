@@ -39,13 +39,11 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @popkorn  | bug | project taking very long to load or not loading at all on cocrea  | HCN  | Open  | 2022-11-25 |  |
 | @popkorn  | bug | gandi mmo extension x and y not working  | HCN  | Open  | 2022-11-25 |  |
 | @демчук майнкрафт  | bug | loading scratch project failed  | linxin  | Open  | 2022-11-26 |  |
-| @popkorn  | bug | loading scratch project failed  | linxin  | Open  | 2022-11-26 |  |
 | @labrosggv  | bug | Missing translation Entry  | HCN  | Open  | 2022-11-25 |  |
 | @labrosggv  | bug | Motion and Looks Category blocks appear in modules    | HCN  | Open  | 2022-11-25 |  |
 | @wzy1tenyears  | bug | can't click and run in modules    | HCN  | Open  | 2022-11-22 |  |
 | @HexMan  | suggestion | have an API wrapper     | HCN  | Open  | 2022-11-27 |  |
 | @DeMelBros (Muya)  | suggestion | 35 max member collaboration feature | HCN  | Open  | 2022-11-24 |  |
-| @labrosggv  | suggestion | Private variables in backdrop | HCN  | Open  | 2022-11-26 |  |
 | @labrosggv  | suggestion | Private variables in backdrop | HCN  | Open  | 2022-11-26 |  |
 | @labrosggv  | suggestion | New menu type for extension developers | HCN  | Open  | 2022-11-26 |  |
 | @popkorn  | suggestion | featured voting | Jamin  | Open  | 2022-11-23 |  |
