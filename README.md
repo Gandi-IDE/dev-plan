@@ -27,6 +27,13 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2022Y12M1W
+### Plan
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @Creep5432.catrobat  | bug | Project duplicated all sprites and can't load the project  | HCN  | Close  | 2022-11-29 | 2022-11-30 |
+
 ## 2022Y11M4W
 ### Plan
 
@@ -63,6 +70,23 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Fixed
 - Fixed: cannot search project in Cocrea (reporter: PerlinNoise)
+
+### Community Contributor board(2022/11/21~2022/11/27)
+- @labrosggv  : 5 💡 3 🐛
+- @popkorn  : 3 💡 2 🐛
+- @wzy1tenyears  : 1 💡 1 🐛
+- @Wokafish  : 1  🐛
+- @CupStudios  : 1 🐛
+- @PerlinNoise  : 1 🐛
+- @демчук майнкрафт  : 1 🐛
+- @HexMan  : 1 💡
+- @DeMelBros (Muya)  : 1 💡
+- @zep-excpoint  : 1 💡
+- @☭ Mewster ☭  : 2 💡
+- @Costope21  : 1 💡
+- @winwinlmfao  : 1 💡
+- @NotSoPTBP  : 1 💡
+- @Martinelplayz  : 1 💡
 
 ## 2022Y11M3W
 ### Plan
