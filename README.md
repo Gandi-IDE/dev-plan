@@ -33,6 +33,32 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Creep5432.catrobat  | bug | Project duplicated all sprites and can't load the project  | HCN  | Close  | 2022-11-29 | 2022-11-30 |
+| @PerlinNoise  | bug | Custom extensions won't load  | HCN  | Open  | 2022-12-04 |  |
+| @hd  | bug | No video or audio folders to put mp3 or mp4 into  | HCN  | Open  | 2022-12-04 |  |
+| @Wokafish  | bug | Lists dont save  | HCN  | Open  | 2022-12-02 |  |
+| @Suumy0327  | bug | Variable right click bug  | HCN  | Open  | 2022-12-04 |  |
+| @Tessal   | bug | Functions calling from other sprites  | HCN  | Open  | 2022-12-03 |  |
+| @popkorn   | bug | Variables and lists not showing  | HCN  | Open  | 2022-11-30 |  |
+| @Wokafish   | bug | Stop button doesn't indicate the project being stopped  | HCN  | Open  | 2022-11-29 |  |
+| @susi boy   | bug | MMO Bug  | HCN  | Open  | 2022-11-28 |  |
+| @PerlinNoise   | bug | When collaborating, uploading a sprite automatically deletes it  | HCN  | Open  | 2022-11-28 |  |
+| @HexMa   | suggestion | Market Place  | HCN  | Open  | 2022-12-04 |  |
+| @NotSoPTBP   | suggestion | Interpolation (like in turbowarp)  | HCN  | Open  | 2022-11-30 |  |
+| @☭ Mewster ☭   | suggestion | Make In-Depth Tutorials on each of the Extensions on YouTube  | collin  | Open  | 2022-12-04 |  |
+| @PerlinNoise   | suggestion | Sprite Interpolation  | HCN  | Open  | 2022-12-04 |  |
+| @Suumy0327   | suggestion | Export to app  | HCN  | Open  | 2022-12-04 |  |
+| @BANANAKING   | suggestion | Costume Editor Grid  | HCN  | Open  | 2022-12-04 |  |
+| @HexMan   | suggestion | Scratch Sprite Grid  | HCN  | Open  | 2022-12-04 |  |
+| @Tessal   | suggestion | Scaling improvements  | HCN  | Open  | 2022-12-03 |  |
+| @☭ Mewster ☭   | suggestion | Search Button  | linxin  | Open  | 2022-11-28 |  |
+| @Da_Creator   | suggestion | support mobile  | HCN  | Open  | 2022-11-30 |  |
+| @Mintil   | suggestion | add code store  | linxin  | Open  | 2022-12-02 |  |
+| @wzy1tenyears   | suggestion | make a new addone pls  | collin  | Open  | 2022-12-02 |  |
+| @popkorn   | suggestion | Add an easy way to connect an external server  | collin  | Open  | 2022-11-30 |  |
+| @DarkerGEN   | suggestion | Add a option to go into full screen while play a scratch game that is 16:9  | linxin  | Open  | 2022-11-30 |  |
+| @saraysxroom   | suggestion | resolution change  | linxin  | Open  | 2022-11-29 |  |
+| @NotSoPTBP   | suggestion | Sprites and Costumes Folder  | linxin  | Open  | 2022-11-29 |  |
+
 
 ## 2022Y11M4W
 ### Plan
