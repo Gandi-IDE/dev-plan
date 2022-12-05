@@ -89,13 +89,15 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @winwinlmfao  | suggestion | want a channel where people can look for people to help their projects | collin  | Open  | 2022-11-22 |  |
 | @wzy1tenyears  | suggestion | The windows in gandi aren't fit edge | collin  | Open  | 2022-11-22 |  |
 | @labrosggv  | suggestion | use a command that would generates a random project idea | ZJ  | Open  | 2022-11-22 |  |
-| @NotSoPTBP  | suggestion | 16 9 canvas size | HCN  | Open  | 2022-11-22 |  |
 | @Martinelplayz  | suggestion | suggest an update to the fermi extension that allows general limits to be removed | HCN  | Open  | 2022-11-21 |  |
 | @labrosggv  | suggestion | better points commands | HCN  | Open  | 2022-11-21 |  |
 
 ### Fixed
 - Fixed: cannot search project in Cocrea (reporter: PerlinNoise)
 - Fixed: Missing translation Entry (reporter: labrosggv)
+
+### Added
+- Added: 16 9 canvas size (reporter: NotSoPTBP)
 
 ### Community Contributor board(2022/11/21~2022/11/27)
 - @labrosggv  : 5 💡 3 🐛
