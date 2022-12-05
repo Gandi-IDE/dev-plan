@@ -59,6 +59,24 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @saraysxroom   | suggestion | resolution change  | linxin  | Open  | 2022-11-29 |  |
 | @NotSoPTBP   | suggestion | Sprites and Costumes Folder  | linxin  | Open  | 2022-11-29 |  |
 
+### Community Contributor board(2022/11/28~2022/12/04)
+- @PerlinNoise  : 1 💡 2 🐛
+- @Suumy0327  : 1 💡 1 🐛
+- @Tessal  : 1 💡 1 🐛
+- @popkorn  : 1 💡 1 🐛
+- @HexMan  : 2 💡
+- @NotSoPTBP  : 2 💡
+- @☭ Mewster ☭  : 2 💡
+- @Wokafish  : 2 🐛
+- @Creep5432.catrobat  : 1 🐛
+- @hd  : 1 🐛
+- @susi boy  : 1 🐛
+- @BANANAKING  : 1 💡
+- @Da_Creator  : 1 💡
+- @Mintil  : 1 💡
+- @wzy1tenyears  : 1 💡
+- @DarkerGEN  : 1 💡
+- @saraysxroom  : 1 💡
 
 ## 2022Y11M4W
 ### Plan
