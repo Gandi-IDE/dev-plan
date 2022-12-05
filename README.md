@@ -78,13 +78,12 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @DeMelBros (Muya)  | suggestion | 35 max member collaboration feature | HCN  | Open  | 2022-11-24 |  |
 | @labrosggv  | suggestion | Private variables in backdrop | HCN  | Open  | 2022-11-26 |  |
 | @labrosggv  | suggestion | New menu type for extension developers | HCN  | Open  | 2022-11-26 |  |
-| @popkorn  | suggestion | featured voting | Jamin  | Open  | 2022-11-23 |  |
 | @zep-excpoint  | suggestion | volume slider on side bar | linxin  | Open  | 2022-11-23 |  |
 | @labrosggv  | suggestion | Canvas extension addition | HCN  | Open  | 2022-11-25 |  |
 | @☭ Mewster ☭  | suggestion | Roles given for things people do| HCN  | Open  | 2022-11-24 |  |
 | @popkorn  | suggestion | extension - controller support| HCN  | Open  | 2022-11-21 |  |
 | @☭ Mewster ☭  | suggestion | Extension Idea - AI Creator | HCN  | Open  | 2022-11-21 |  |
-| @popkorn  | suggestion | help forum | collin  | Open  | 2022-11-23 |  |
+| @popkorn  | suggestion | help forum | collin  | In Progress  | 2022-11-23 |  |
 | @Costope21  | suggestion | The packager should package 16:9 screen size | HCN  | Open  | 2022-11-22 |  |
 | @winwinlmfao  | suggestion | want a channel where people can look for people to help their projects | collin  | Open  | 2022-11-22 |  |
 | @wzy1tenyears  | suggestion | The windows in gandi aren't fit edge | collin  | Open  | 2022-11-22 |  |
@@ -98,6 +97,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Added
 - Added: 16 9 canvas size (reporter: NotSoPTBP)
+- Added: featured voting (reporter: popkorn)
 
 ### Community Contributor board(2022/11/21~2022/11/27)
 - @labrosggv  : 5 💡 3 🐛
@@ -124,7 +124,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @CoolScratcher  | bug | getting problem a lot whenever I use Quake  | HCN  | Open  | 2022-11-14 |  |
 | @CoolScratcher  | suggestion | costume editor doesn't fit gandi  | HCN  | Open  | 2022-11-14 |  |
 | @poprock  | suggestion | make there be an option when uploading a project file (.sb3) to make it replace the current project or make a new one  | HCN  | Open  | 2022-11-15 |  |
-| @popkorn  | bug | version control not working  | xiqoqiang | Open  | 2022-11-15 |  |
+| @popkorn  | bug | version control not working  | xiqoqiang | In Progress  | 2022-11-15 |  |
 | @zep-excpoint  | bug | cant use extension hat blocks with booleans or strings  | xiqoqiang | Open  | 2022-11-16 |  |
 | @iceler21  | bug | Old projects getting deleted  | HCN | Open  | 2022-11-15 |  |
 | @HarlanX  | bug | Black-screen bug  | HCN | Open  | 2022-11-17 |  |
@@ -141,7 +141,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Wokafish  | suggestion | Multiple mouse cursors | HCN | Open  | 2022-11-18 |  |
 | @Costope21  | suggestion | Gandi IDE as an App | HCN | Open  | 2022-11-18 |  |
 | @popkorn  | suggestion | add an editor timed out error | HCN | Open  | 2022-11-18 |  |
-| @CoolScratcher  | suggestion | NG leaderboard | HCN | Open  | 2022-11-18 |  |
+| @CoolScratcher  | suggestion | NG leaderboard | HCN | In Progress  | 2022-11-18 |  |
 | @iceler21  | suggestion | Scratch Addons and Turbowarp features support | HCN | Open  | 2022-11-18 |  |
 | @AdamTheDumbPerson  | suggestion | Suggestion for dolly | HCN | Open  | 2022-11-18 |  |
 | @AdamTheDumbPerson  | suggestion | Suggestion for MMO | HCN | Open  | 2022-11-18 |  |
