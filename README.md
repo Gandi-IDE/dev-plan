@@ -74,8 +74,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - @zep-excpoint   : 1 💡
 - @DarkerGEN   : 1 💡
 - @NotSoPTBP   : 1 💡
-Thanks for their contributions to the community! 
-NGs will be distributed later. If your contribution is missed, please DM @collin
 
 ## 2022Y12M1W
 ### Plan
