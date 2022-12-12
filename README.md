@@ -58,7 +58,24 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @PerlinNoise  | suggestion | Search Categories | HCN  | Open  | 2022-12-05  |  |
 | @PerlinNoise  | suggestion | Awards for certain things | collin  | Open  | 2022-12-05  |  |
 
-
+### Community Contributor board(2022/12/05~2022/12/11)
+- @CupStudios   : 4 💡
+- @popkorn   : 1 💡 2 🐛
+- @PerlinNoise   : 3 💡
+- @HexMan   : 1 💡 1 🐛
+- @Suumy0327   : 2 💡
+- @dandan   : 1 🐛
+- @winwinlmfao   : 1 💡
+- @CoolScratcher   : 1 💡
+- @Tricky313   : 1 💡
+- @☭ Mewster ☭    : 1 💡
+- @Exo   : 1 💡
+- @Tessal   : 1 💡
+- @zep-excpoint   : 1 💡
+- @DarkerGEN   : 1 💡
+- @NotSoPTBP   : 1 💡
+Thanks for their contributions to the community! 
+NGs will be distributed later. If your contribution is missed, please DM @collin
 
 ## 2022Y12M1W
 ### Plan
