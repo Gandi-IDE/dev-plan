@@ -41,7 +41,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @PerlinNoise  | suggestion | Unlisted mode for projects  | linxin  | Open  | 2022-12-11  |  |
 | @CoolScratcher  | suggestion | Utilize Custom Cursor better | HCN  | Open  | 2022-12-11  |  |
 | @Tricky313  | suggestion | should be able to resize each of the side tabs | linxin  | Open  | 2022-12-10  |  |
-| @☭ Mewster ☭  | suggestion | Bot Commands Channel | 0xVision.eth  | Closed  | 2022-12-10  | 2022-12-10 |
 | @Exo  | suggestion | custom stage sizes | linxin  | Open  | 2022-12-10  |  |
 | @HexMan  | suggestion | It would be nice to put variables into a folder just like you can with sprites using and extension | linxin  | Open  | 2022-12-10  |  |
 | @Tessal  | suggestion | make our own templates | linxin  | Open  | 2022-12-09  |  |
@@ -57,6 +56,11 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @CupStudios  | suggestion | A block to make HTTPS requests eg. "POST", "GET" | HCN  | Open  | 2022-12-05  |  |
 | @PerlinNoise  | suggestion | Search Categories | HCN  | Open  | 2022-12-05  |  |
 | @PerlinNoise  | suggestion | Awards for certain things | collin  | Open  | 2022-12-05  |  |
+
+### Fixed
+
+### Added
+- Added: Bot Commands Channel (reporter: ☭ Mewster ☭)
 
 ### Community Contributor board(2022/12/05~2022/12/11)
 - @CupStudios   : 4 💡
@@ -80,16 +84,15 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @Creep5432.catrobat  | bug | Project duplicated all sprites and can't load the project  | HCN  | Close  | 2022-11-29 | 2022-11-30 |
 | @PerlinNoise  | bug | Custom extensions won't load  | HCN  | Open  | 2022-12-04 |  |
-| @hd  | bug | No video or audio folders to put mp3 or mp4 into  | HCN  | Open  | 2022-12-04 |  |
+| @hd  | bug | No video or audio folders to put mp3 or mp4 into  | linxin  | In Progress  | 2022-12-04 |  |
 | @Wokafish  | bug | Lists dont save  | HCN  | Open  | 2022-12-02 |  |
 | @Suumy0327  | bug | Variable right click bug  | HCN  | Open  | 2022-12-04 |  |
 | @Tessal   | bug | Functions calling from other sprites  | HCN  | Open  | 2022-12-03 |  |
 | @popkorn   | bug | Variables and lists not showing  | HCN  | Open  | 2022-11-30 |  |
 | @Wokafish   | bug | Stop button doesn't indicate the project being stopped  | HCN  | Open  | 2022-11-29 |  |
 | @susi boy   | bug | MMO Bug  | HCN  | Open  | 2022-11-28 |  |
-| @PerlinNoise   | bug | When collaborating, uploading a sprite automatically deletes it  | HCN  | Open  | 2022-11-28 |  |
+| @PerlinNoise   | bug | When collaborating, uploading a sprite automatically deletes it  | HCN  | In Progress  | 2022-11-28 |  |
 | @HexMa   | suggestion | Market Place  | HCN  | Open  | 2022-12-04 |  |
 | @NotSoPTBP   | suggestion | Interpolation (like in turbowarp)  | HCN  | Open  | 2022-11-30 |  |
 | @☭ Mewster ☭   | suggestion | Make In-Depth Tutorials on each of the Extensions on YouTube  | collin  | Open  | 2022-12-04 |  |
@@ -106,6 +109,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @DarkerGEN   | suggestion | Add a option to go into full screen while play a scratch game that is 16:9  | linxin  | Open  | 2022-11-30 |  |
 | @saraysxroom   | suggestion | resolution change  | linxin  | Open  | 2022-11-29 |  |
 | @NotSoPTBP   | suggestion | Sprites and Costumes Folder  | linxin  | Open  | 2022-11-29 |  |
+
+### Fixed
+- Fixed: Project duplicated all sprites and can't load the project (reporter: Creep5432.catrobat)
 
 ### Community Contributor board(2022/11/28~2022/12/04)
 - @PerlinNoise  : 1 💡 2 🐛
@@ -132,7 +138,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Wokafish  | bug | Website scrolling on tablet  | HCN  | Open  | 2022-11-26 |  |
-| @CupStudios  | bug | Project overwrites over another project  | HCN  | Open  | 2022-11-27 |  |
+| @CupStudios  | bug | Project overwrites over another project  | HCN  | In Progress  | 2022-11-27 |  |
 | @PerlinNoise  | bug | Some icons don't load  | HCN  | Open  | 2022-11-26 |  |
 | @labrosggv  | bug | Missing translation  | HCN  | Open  | 2022-11-25 |  |
 | @popkorn  | bug | project taking very long to load or not loading at all on cocrea  | HCN  | Open  | 2022-11-25 |  |
@@ -154,7 +160,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @wzy1tenyears  | suggestion | The windows in gandi aren't fit edge | collin  | Open  | 2022-11-22 |  |
 | @labrosggv  | suggestion | use a command that would generates a random project idea | ZJ  | Open  | 2022-11-22 |  |
 | @Martinelplayz  | suggestion | suggest an update to the fermi extension that allows general limits to be removed | HCN  | Open  | 2022-11-21 |  |
-| @labrosggv  | suggestion | better points commands | HCN  | Open  | 2022-11-21 |  |
+| @labrosggv  | suggestion | better points commands | HCN  | In Progress  | 2022-11-21 |  |
 
 ### Fixed
 - Fixed: cannot search project in Cocrea (reporter: PerlinNoise)
