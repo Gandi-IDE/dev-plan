@@ -98,7 +98,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @BANANAKING   | suggestion | Costume Editor Grid  | HCN  | Open  | 2022-12-04 |  |
 | @HexMan   | suggestion | Scratch Sprite Grid  | HCN  | Open  | 2022-12-04 |  |
 | @Tessal   | suggestion | Scaling improvements  | HCN  | Open  | 2022-12-03 |  |
-| @☭ Mewster ☭   | suggestion | Search Button  | linxin  | Open  | 2022-11-28 |  |
+| @☭ Mewster ☭   | suggestion | Search Button  | linxin  | In Progress  | 2022-11-28 |  |
 | @Da_Creator   | suggestion | support mobile  | HCN  | Open  | 2022-11-30 |  |
 | @Mintil   | suggestion | add code store  | linxin  | Open  | 2022-12-02 |  |
 | @wzy1tenyears   | suggestion | make a new addone pls  | collin  | Open  | 2022-12-02 |  |
@@ -149,7 +149,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @☭ Mewster ☭  | suggestion | Roles given for things people do| HCN  | Open  | 2022-11-24 |  |
 | @popkorn  | suggestion | extension - controller support| HCN  | Open  | 2022-11-21 |  |
 | @☭ Mewster ☭  | suggestion | Extension Idea - AI Creator | HCN  | Open  | 2022-11-21 |  |
-| @popkorn  | suggestion | help forum | collin  | In Progress  | 2022-11-23 |  |
 | @Costope21  | suggestion | The packager should package 16:9 screen size | HCN  | Open  | 2022-11-22 |  |
 | @winwinlmfao  | suggestion | want a channel where people can look for people to help their projects | collin  | Open  | 2022-11-22 |  |
 | @wzy1tenyears  | suggestion | The windows in gandi aren't fit edge | collin  | Open  | 2022-11-22 |  |
@@ -164,6 +163,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 ### Added
 - Added: 16 9 canvas size (reporter: NotSoPTBP)
 - Added: featured voting (reporter: popkorn)
+- Added: help forum (reporter: popkorn)
 
 ### Community Contributor board(2022/11/21~2022/11/27)
 - @labrosggv  : 5 💡 3 🐛
@@ -192,7 +192,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @poprock  | suggestion | make there be an option when uploading a project file (.sb3) to make it replace the current project or make a new one  | HCN  | Open  | 2022-11-15 |  |
 | @popkorn  | bug | version control not working  | xiqoqiang | In Progress  | 2022-11-15 |  |
 | @zep-excpoint  | bug | cant use extension hat blocks with booleans or strings  | xiqoqiang | Open  | 2022-11-16 |  |
-| @iceler21  | bug | Old projects getting deleted  | HCN | Open  | 2022-11-15 |  |
 | @HarlanX  | bug | Black-screen bug  | HCN | Open  | 2022-11-17 |  |
 | @AdamTheDumbPerson  | bug | mmo bug  | HCN | Open  | 2022-11-18 |  |
 | @popkorn  | suggestion | download a file in the cloud storage through the project | HCN | Open  | 2022-11-17 |  |
@@ -216,6 +215,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - Fixed: faq channel double section (reporter: labrosggv)
 - Fixed: editor is broken (reporter: Xason/popkorn)
 - Fixed: translation suggestions (reporter: @CoolScratcher)
+
+### Removed
+- Removed: Old projects getting deleted (reporter: iceler21)
 
 ### Community Contributor board(2022/11/14~2022/11/20)
 - @popkorn  : 3 💡 2  🐛
