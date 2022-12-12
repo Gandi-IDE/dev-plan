@@ -27,6 +27,39 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+
+## 2022Y12M2W
+### Plan
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @popkorn  | bug | old media utils logo found on getgandi.com chinese version  | linxin  | Open  | 2022-12-10 |  |
+| @popkorn  | bug | videos in media extension suddenly not working  | HCN  | Open  | 2022-12-10 |  |
+| @HexMan  | bug | cocrea error when reload  | linxin  | Open  | 2022-12-08 |  |
+| @dandan  | bug | project runs smoothly until you edit it  | HCN  | Open  | 2022-12-06  |  |
+| @winwinlmfao  | suggestion | Variables only for a specific script  | HCN  | Open  | 2022-12-11  |  |
+| @PerlinNoise  | suggestion | Unlisted mode for projects  | linxin  | Open  | 2022-12-11  |  |
+| @CoolScratcher  | suggestion | Utilize Custom Cursor better | HCN  | Open  | 2022-12-11  |  |
+| @Tricky313  | suggestion | should be able to resize each of the side tabs | linxin  | Open  | 2022-12-10  |  |
+| @☭ Mewster ☭  | suggestion | Bot Commands Channel | 0xVision.eth  | Closed  | 2022-12-10  | 2022-12-10 |
+| @Exo  | suggestion | custom stage sizes | linxin  | Open  | 2022-12-10  |  |
+| @HexMan  | suggestion | It would be nice to put variables into a folder just like you can with sprites using and extension | linxin  | Open  | 2022-12-10  |  |
+| @Tessal  | suggestion | make our own templates | linxin  | Open  | 2022-12-09  |  |
+| @CupStudios  | suggestion | A specific channel to send media like photos or videos | collin  | Open  | 2022-12-08  |  |
+| @zep-excpoint  | suggestion | project showcase channel | collin  | Open  | 2022-12-08  |  |
+| @DarkerGEN  | suggestion | Each weekly-game-fest should have themes to base the game on | 0xVision.eth  | Open  | 2022-12-08  |  |
+| @popkorn  | suggestion | Character rigging or parenting extension | Jamin  | Open  | 2022-12-07  |  |
+| @NotSoPTBP  | suggestion | Better Extension layout | linxin  | Open  | 2022-12-07  |  |
+| @CupStudios  | suggestion | work command | collin  | Open  | 2022-12-07  |  |
+| @CupStudios  | suggestion | Crowdin Gandi Page | collin  | Open  | 2022-12-06  |  |
+| @Suumy0327  | suggestion | Effects extension | HCN  | Open  | 2022-12-06  |  |
+| @Suumy0327  | suggestion | Animation extension | HCN  | Open  | 2022-12-06  |  |
+| @CupStudios  | suggestion | A block to make HTTPS requests eg. "POST", "GET" | HCN  | Open  | 2022-12-05  |  |
+| @PerlinNoise  | suggestion | Search Categories | HCN  | Open  | 2022-12-05  |  |
+| @PerlinNoise  | suggestion | Awards for certain things | collin  | Open  | 2022-12-05  |  |
+
+
+
 ## 2022Y12M1W
 ### Plan
 
