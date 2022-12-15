@@ -212,7 +212,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Wokafish  | suggestion | Multiple mouse cursors | HCN | Open  | 2022-11-18 |  |
 | @Costope21  | suggestion | Gandi IDE as an App | HCN | Open  | 2022-11-18 |  |
 | @popkorn  | suggestion | add an editor timed out error | HCN | Open  | 2022-11-18 |  |
-| @CoolScratcher  | suggestion | NG leaderboard | HCN | In Progress  | 2022-11-18 |  |
 | @iceler21  | suggestion | Scratch Addons and Turbowarp features support | HCN | Open  | 2022-11-18 |  |
 | @AdamTheDumbPerson  | suggestion | Suggestion for dolly | HCN | Open  | 2022-11-18 |  |
 | @AdamTheDumbPerson  | suggestion | Suggestion for MMO | HCN | Open  | 2022-11-18 |  |
@@ -221,6 +220,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - Fixed: faq channel double section (reporter: labrosggv)
 - Fixed: editor is broken (reporter: Xason/popkorn)
 - Fixed: translation suggestions (reporter: @CoolScratcher)
+
+### Added
+- Added: NG leaderboard (reporter: CoolScratcher)
 
 ### Removed
 - Removed: Old projects getting deleted (reporter: iceler21)
