@@ -27,6 +27,42 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2022Y12M3W
+### Plan
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @Da_Creator  | bug | Cant move in editor when your a viewer in a sprite and the other one editing  | HCN  | Open  | 2022-12-16 |  |
+| @🎄 Mewster 🎄  | bug | When you search stuff,it does not work at all and pops up a 404 error  | LJ  | In Progress  | 2022-12-17 |  |
+| @PerlinNoise  | bug | some translation is so horrible  | collin  | Open  | 2022-12-17 |  |
+| @LGM Productions  | bug | The hide pause button block does not work in the editor  | HCN  | Open  | 2022-12-17 |  |
+| @fath11  | bug | Every time I reload the page the view count keeps increasing  | linxin  | Open  | 2022-12-17 |  |
+| @Martinelplayz  | bug | upon putting my project to 16:9 the stage became very stretched and so did all sprites attached  | linxin  | Open  | 2022-12-16 |  |
+| @Papichi05  | bug | Collaboration system bugs  | linxin  | Open  | 2022-12-16 |  |
+| @Col  | bug | Text going off the blocks  | linxin  | Open  | 2022-12-12 |  |
+| @PerlinNoise  | suggestion | Cocrea Docs are outdated  | collin  | Open  | 2022-12-18 |  |
+| @🎄 Mewster 🎄  | suggestion | Devlog feature (like itch.io)  | collin  | Open  | 2022-12-18 |  |
+| @PerlinNoise  | suggestion | Community-hosted or requested game jams  | Jamin  | Open  | 2022-12-18 |  |
+| @wzy1tenyears  | suggestion | improve cocrea network for china pls | collin  | Open  | 2022-12-16 |  |
+| @Mintil  | suggestion | pls let blocks have customizable skin | collin  | Open  | 2022-12-16 |  |
+| @robo  | suggestion | Add the [for each [var] in (10)] block | collin  | Jamin  | 2022-12-16 |  |
+| @Papichi05  | suggestion | Addon Feature Suggestions | HCN  | Open  | 2022-12-16 |  |
+| @CoolScratcher  | suggestion | Ping Roles | collin  | Open  | 2022-12-16 |  |
+| @🎄 Mewster 🎄  | suggestion | Documentation Area (Dark Mode on Extensions Page) | linxin  | Open  | 2022-12-15 |  |
+| @Tessal  | suggestion | Improved Layering | linxin  | Open  | 2022-12-15 |  |
+| @Tessal  | suggestion | QOL Improvements | collin  | Open  | 2022-12-15 |  |
+| @Papichi05  | suggestion | Gandi IDE Offline Editor | HCN  | Open  | 2022-12-15 |  |
+| @labrosggv  | suggestion | A project option to disable autosaving | collin  | Open  | 2022-12-14 |  |
+| @CoolScratcher  | suggestion | Interactive Extension Selecting | collin  | Open  | 2022-12-13 |  |
+| @HexMan  | suggestion | Turbowarp custom extention | HCN  | Open  | 2022-12-13 |  |
+| @robo  | suggestion | remove this useless asf block | collin  | Open  | 2022-12-13 |  |
+| @ComicWar  | suggestion | Texturing | HCN  | Open  | 2022-12-12 |  |
+| @Col  | suggestion | UI Scaling | linxin  | Open  | 2022-12-12 |  |
+| @HexMan  | suggestion | Weekly game jam | Jamin  | Done  | 2022-12-12 |  |
+| @winwinlmfao  | suggestion | Script Variables | collin  | Done  | 2022-12-12 |  |
+
+
+### Community Contributor board(2022/12/12~2022/12/18)
 
 ## 2022Y12M2W
 ### Plan
