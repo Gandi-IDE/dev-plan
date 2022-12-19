@@ -33,7 +33,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @Da_Creator  | bug | Cant move in editor when your a viewer in a sprite and the other one editing  | HCN  | Open  | 2022-12-16 |  |
-| @🎄 Mewster 🎄  | bug | When you search stuff,it does not work at all and pops up a 404 error  | LJ  | In Progress  | 2022-12-17 |  |
 | @PerlinNoise  | bug | some translation is so horrible  | collin  | Open  | 2022-12-17 |  |
 | @LGM Productions  | bug | The hide pause button block does not work in the editor  | HCN  | Open  | 2022-12-17 |  |
 | @fath11  | bug | Every time I reload the page the view count keeps increasing  | linxin  | Open  | 2022-12-17 |  |
@@ -61,8 +60,28 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @HexMan  | suggestion | Weekly game jam | Jamin  | Done  | 2022-12-12 |  |
 | @winwinlmfao  | suggestion | Script Variables | collin  | Done  | 2022-12-12 |  |
 
+### Fixed
+- Fixed: When you search stuff,it does not work at all and pops up a 404 error (reporter: 🎄 Mewster 🎄)
+
 
 ### Community Contributor board(2022/12/12~2022/12/18)
+- @🎄 Mewster 🎄  : 2 💡 1 🐛
+- @PerlinNoise  : 2 💡 1 🐛
+- @Papichi05  : 2 💡 1 🐛
+- @CoolScratcher  : 2 💡
+- @robo  : 2 💡
+- @HexMan  : 2 💡
+- @Tessal  : 2 💡
+- @Col  : 1 💡 1 🐛
+- @LGM Productions  : 1 🐛
+- @fath11  : 1 🐛
+- @Martinelplayz  : 1 🐛
+- @Da_Creator  : 1 🐛
+- @wzy1tenyears  : 1 💡
+- @Mintil  : 1 💡
+- @labrosggv  : 1 💡
+- @ComicWar : 1 💡
+- @winwinlmfao : 1 💡
 
 ## 2022Y12M2W
 ### Plan
@@ -137,7 +156,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @BANANAKING   | suggestion | Costume Editor Grid  | HCN  | Open  | 2022-12-04 |  |
 | @HexMan   | suggestion | Scratch Sprite Grid  | HCN  | Open  | 2022-12-04 |  |
 | @Tessal   | suggestion | Scaling improvements  | HCN  | Open  | 2022-12-03 |  |
-| @☭ Mewster ☭   | suggestion | Search Button  | linxin  | In Progress  | 2022-11-28 |  |
 | @Da_Creator   | suggestion | support mobile  | HCN  | Open  | 2022-11-30 |  |
 | @Mintil   | suggestion | add code store  | linxin  | Open  | 2022-12-02 |  |
 | @wzy1tenyears   | suggestion | make a new addone pls  | collin  | Open  | 2022-12-02 |  |
@@ -148,6 +166,9 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Fixed
 - Fixed: Project duplicated all sprites and can't load the project (reporter: Creep5432.catrobat)
+
+### Added
+- Added: Search Button in Cocrea (reporter: ☭ Mewster ☭ )
 
 ### Community Contributor board(2022/11/28~2022/12/04)
 - @PerlinNoise  : 1 💡 2 🐛
