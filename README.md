@@ -89,7 +89,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
 | @popkorn  | bug | old media utils logo found on getgandi.com chinese version  | linxin  | Open  | 2022-12-10 |  |
 | @popkorn  | bug | videos in media extension suddenly not working  | HCN  | Open  | 2022-12-10 |  |
-| @HexMan  | bug | cocrea error when reload  | linxin  | Open  | 2022-12-08 |  |
 | @dandan  | bug | project runs smoothly until you edit it  | HCN  | Open  | 2022-12-06  |  |
 | @winwinlmfao  | suggestion | Variables only for a specific script  | HCN  | Open  | 2022-12-11  |  |
 | @PerlinNoise  | suggestion | Unlisted mode for projects  | linxin  | Open  | 2022-12-11  |  |
@@ -112,6 +111,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @PerlinNoise  | suggestion | Awards for certain things | collin  | Open  | 2022-12-05  |  |
 
 ### Fixed
+- Fixed: cocrea error when reload (reporter: HexMan)
 
 ### Added
 - Added: Bot Commands Channel (reporter: ☭ Mewster ☭)
