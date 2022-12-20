@@ -143,7 +143,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Suumy0327  | bug | Variable right click bug  | HCN  | Open  | 2022-12-04 |  |
 | @Tessal   | bug | Functions calling from other sprites  | HCN  | Open  | 2022-12-03 |  |
 | @popkorn   | bug | Variables and lists not showing  | HCN  | Open  | 2022-11-30 |  |
-| @susi boy   | bug | MMO Bug  | HCN  | Open  | 2022-11-28 |  |
 | @HexMa   | suggestion | Market Place  | HCN  | Open  | 2022-12-04 |  |
 | @NotSoPTBP   | suggestion | Interpolation (like in turbowarp)  | HCN  | Open  | 2022-11-30 |  |
 | @☭ Mewster ☭   | suggestion | Make In-Depth Tutorials on each of the Extensions on YouTube  | collin  | Open  | 2022-12-04 |  |
