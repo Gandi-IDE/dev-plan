@@ -32,7 +32,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 | Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
-| @Da_Creator  | bug | Cant move in editor when your a viewer in a sprite and the other one editing  | HCN  | Open  | 2022-12-16 |  |
 | @PerlinNoise  | bug | some translation is so horrible  | collin  | Open  | 2022-12-17 |  |
 | @LGM Productions  | bug | The hide pause button block does not work in the editor  | HCN  | Open  | 2022-12-17 |  |
 | @fath11  | bug | Every time I reload the page the view count keeps increasing  | linxin  | Open  | 2022-12-17 |  |
