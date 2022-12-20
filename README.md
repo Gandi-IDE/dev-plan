@@ -145,7 +145,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Tessal   | bug | Functions calling from other sprites  | HCN  | Open  | 2022-12-03 |  |
 | @popkorn   | bug | Variables and lists not showing  | HCN  | Open  | 2022-11-30 |  |
 | @susi boy   | bug | MMO Bug  | HCN  | Open  | 2022-11-28 |  |
-| @PerlinNoise   | bug | When collaborating, uploading a sprite automatically deletes it  | HCN  | In Progress  | 2022-11-28 |  |
 | @HexMa   | suggestion | Market Place  | HCN  | Open  | 2022-12-04 |  |
 | @NotSoPTBP   | suggestion | Interpolation (like in turbowarp)  | HCN  | Open  | 2022-11-30 |  |
 | @☭ Mewster ☭   | suggestion | Make In-Depth Tutorials on each of the Extensions on YouTube  | collin  | Open  | 2022-12-04 |  |
@@ -164,6 +163,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Fixed
 - Fixed: Project duplicated all sprites and can't load the project (reporter: Creep5432.catrobat)
+- Fixed: automatically deletes sprite (reporter: PerlinNoise)
 
 ### Added
 - Added: Search Button in Cocrea (reporter: ☭ Mewster ☭ )
