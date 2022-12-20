@@ -144,7 +144,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Suumy0327  | bug | Variable right click bug  | HCN  | Open  | 2022-12-04 |  |
 | @Tessal   | bug | Functions calling from other sprites  | HCN  | Open  | 2022-12-03 |  |
 | @popkorn   | bug | Variables and lists not showing  | HCN  | Open  | 2022-11-30 |  |
-| @Wokafish   | bug | Stop button doesn't indicate the project being stopped  | HCN  | Open  | 2022-11-29 |  |
 | @susi boy   | bug | MMO Bug  | HCN  | Open  | 2022-11-28 |  |
 | @PerlinNoise   | bug | When collaborating, uploading a sprite automatically deletes it  | HCN  | In Progress  | 2022-11-28 |  |
 | @HexMa   | suggestion | Market Place  | HCN  | Open  | 2022-12-04 |  |
