@@ -196,7 +196,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Wokafish  | bug | Website scrolling on tablet  | HCN  | Open  | 2022-11-26 |  |
 | @CupStudios  | bug | Project overwrites over another project  | HCN  | In Progress  | 2022-11-27 |  |
 | @PerlinNoise  | bug | Some icons don't load  | HCN  | Open  | 2022-11-26 |  |
-| @labrosggv  | bug | Missing translation  | HCN  | Open  | 2022-11-25 |  |
 | @popkorn  | bug | project taking very long to load or not loading at all on cocrea  | HCN  | Open  | 2022-11-25 |  |
 | @popkorn  | bug | gandi mmo extension x and y not working  | HCN  | Open  | 2022-11-25 |  |
 | @демчук майнкрафт  | bug | loading scratch project failed  | linxin  | Open  | 2022-11-26 |  |
