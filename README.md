@@ -37,7 +37,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @fath11  | bug | Every time I reload the page the view count keeps increasing  | linxin  | Open  | 2022-12-17 |  |
 | @Martinelplayz  | bug | upon putting my project to 16:9 the stage became very stretched and so did all sprites attached  | linxin  | Open  | 2022-12-16 |  |
 | @Papichi05  | bug | Collaboration system bugs  | linxin  | Open  | 2022-12-16 |  |
-| @Col  | bug | Text going off the blocks  | linxin  | Open  | 2022-12-12 |  |
 | @PerlinNoise  | suggestion | Cocrea Docs are outdated  | collin  | Open  | 2022-12-18 |  |
 | @🎄 Mewster 🎄  | suggestion | Devlog feature (like itch.io)  | collin  | Open  | 2022-12-18 |  |
 | @PerlinNoise  | suggestion | Community-hosted or requested game jams  | Jamin  | Open  | 2022-12-18 |  |
