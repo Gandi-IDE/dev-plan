@@ -27,6 +27,32 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2022Y12M4W
+### Plan
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @Tessal  | bug | Global Functions copying local variables to sprites  | HCN  | Open  | 2022-12-24 |  |
+| @HexMan  | bug | Random Menu POP Up  | xiaoqiang  | Open  | 2022-12-19 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | bug | Cloud Backpack Issues  | Jagger  | Done  | 2022-12-22 | 2022-12-22  |
+| @unexpectedIntegerNull  | bug | Mis-spelt message  | Collin  | Done  | 2022-12-21 | 2022-12-21  |
+| @Tessal  | suggestion | Project Tags and Identification | Collin  | Open  | 2022-12-25 |   |
+| @Julius MODS  | suggestion | Add Type Safety | Collin  | Open  | 2022-12-25 |   |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | change the in-editor comment design | Collin  | Open  | 2022-12-25 |   |
+| @Tessal  | suggestion | Break and Continue blocks | Collin  | Open  | 2022-12-23 |   |
+| @HexMan  | suggestion | NG Transactions | Collin  | Open  | 2022-12-23 |   |
+| @unexpectedIntegerNull  | suggestion | Username changing | Collin  | Open  | 2022-12-21 |   |
+| @unexpectedIntegerNull  | suggestion | NG gifting from Cocrea NG dashboard | Collin  | Open  | 2022-12-21 |   |
+| @Julius MODS  | suggestion | Sprite Folders. | Collin  | Open  | 2022-12-20 |   |
+| @🎄 Mewster 🎄  | suggestion | Moderators (Add-On from a former one) | Collin  | Open  | 2022-12-20 |   |
+| @zep-excpoint  | suggestion | Touching (sprite) from (direction) side | Collin  | Open  | 2022-12-20 |   |
+| @Martinelplayz  | suggestion | random project button & project tags & search mechanics | Collin  | Open  | 2022-12-19 |   |
+| @Pootis  | suggestion | Keyframe Extension | Collin  | Open  | 2022-12-19 |   |
+| @Chemical Coding  | suggestion | Deleting Broadcasts | Collin  | Open  | 2022-12-19 |   |
+
+### Fixed
+- FIXED: Cloud Backpack Issues (reporter: 𝓟𝓪𝓹𝓲𝓬𝓱𝓲05)
+
 ## 2022Y12M3W
 ### Plan
 
