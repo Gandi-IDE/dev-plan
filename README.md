@@ -27,6 +27,43 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y1M1W
+### Plan
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @Da_Creator  | bug | Quake crashed Gandi screen or whatever it is  | HCN  | Open  | 2023-01-01 |  |
+| @Da_Creator  | bug | Quake extension is laggy in fullscreen  | HCN  | Open  | 2022-12-31 |  |
+| @wzy1tenyears  | bug | no NG instraction  | HCN  | collin  | 2022-12-30 |  |
+| @fath11  | bug | all my project is corrupted lol  | HCN  | Open  | 2022-12-30 |  |
+| @Chasma  | bug | Progress rewinded and Bugged On the same project | HCN  | Open  | 2022-12-30 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | bug | Cloud Extension Page | HCN  | Open  | 2022-12-29 |  |
+| @Chasma  | bug | one project bugged; cannot open | HCN  | Done  | 2022-12-29 |  |
+| @CoolScratcher  | bug | Terminal exit color should be red | HCN  | Open  | 2022-12-28 |  |
+| @HexMan  | bug | Error after saving my custom addon | HCN  | Open  | 2022-12-28 |  |
+| @CoolScratcher  | bug | addToBackpack | HCN  | Open  | 2022-12-28 |  |
+| @labrosggv  | bug | Corrupted Project | HCN  | Open  | 2022-12-27 |  |
+| @CoolScratcher  | bug | Displaced scroll bar and zoom options | HCN  | Open  | 2022-12-27 |  |
+| @fath11  | bug | I have banned myself | HCN  | Done  | 2022-12-26 |  |
+| @Tessal  | suggestion | New organized workspace | HCN  | Open  | 2023-01-01 |  |
+| @Tessal  | suggestion | HJSON support for ''Data Utilities'' Extension | HCN  | Open  | 2023-01-01 |  |
+| @CupStudios  | suggestion | More languages channels | HCN  | Open  | 2022-12-30 |  |
+| @unexpectedIntegerNull  | suggestion | Disconnect certain session IDs or usernames | HCN  | Open  | 2022-12-30 |  |
+| @unexpectedIntegerNull  | suggestion | MMO Extension generates error codes so the game can display different messages | HCN  | Open  | 2022-12-30 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | File Folders in Media Cloud Section | HCN  | Open  | 2022-12-29 |  |
+| @Tessal  | suggestion | project file importing | HCN  | Open  | 2022-12-29 |  |
+| @Tessal  | suggestion | Improved key selection | HCN  | Open  | 2022-12-29 |  |
+| @span  | suggestion | grammatical issue | HCN  | Open  | 2022-12-29 |  |
+| @BANANAKING  | suggestion | Make costumes not case sensitive | HCN  | Open  | 2022-12-28 |  |
+| @~Asti~  | suggestion | Cloud User Data Admin Panel | HCN  | Open  | 2022-12-28 |  |
+| @span  | suggestion | SQL in Gandi | HCN  | Open  | 2022-12-28 |  |
+| @CoolScratcher  | suggestion | Make docs able to be popped out and accessible while editing | HCN  | Open  | 2022-12-28 |  |
+| @CoolScratcher  | suggestion | Improve stage selection | HCN  | Open  | 2022-12-28 |  |
+| @labrosggv  | suggestion | Teams | collin  | Open  | 2022-12-27 |  |
+| @Tessal  | suggestion | Studios | collin  | Open  | 2022-12-26 |  |
+| @Tessal  | suggestion | .txt converting to .csv before importing into lists | collin  | Open  | 2022-12-26 |  |
+| @Da_Creator  | suggestion | Cloud variables that stores Info for each person (except guests) | collin  | Open  | 2022-12-26 |  |
+
 ## 2022Y12M4W
 ### Plan
 
