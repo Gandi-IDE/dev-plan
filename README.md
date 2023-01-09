@@ -41,9 +41,6 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @imknownBydifferentnames  | bug | all of the code mysteriously disappeared  | collin  | Open  | 2023-01-02 |  |
 | @imknownBydifferentnames  | bug | Mysterious f added to my project link  | linxin  | Open  | 2023-01-02 |  |
 | @imknownBydifferentnames  | bug | Missing translation  | linxin  | Open  | 2023-01-02 |  |
-| @Kebabo  | bug | Project not saved after saving  | linxin  | Done  | 2023-01-03 |  |
-| @imknownBydifferentnames  | bug | Latest version won't publish if uploaded from SB3  | linxin  | Done  | 2023-01-02 |  |
-| @Tessal  | bug | Project not saving  | linxin  | Done  | 2023-01-02 |  |
 | @imknownBydifferentnames  | suggestion | My retinas are burning (dark mode on website)  | linxin  | Open  | 2023-01-08 |  |
 | @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  | suggestion | Please add HD file upload  | linxin  | Open  | 2023-01-08 |  |
 | @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Display Folders in the main Cloud Backpack Interface  | HCN  | Open  | 2023-01-07 |  |
@@ -54,6 +51,18 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - FIXED: Project not saved after saving (reporter: Kebabo)
 - FIXED: Latest version won't publish if uploaded from SB3 (reporter: imknownBydifferentnames)
 - FIXED: Project not saving (reporter: Tessal)
+
+### Community Contributor board(2023/01/02~2023/01/08)
+We have collected bugs(🐛) and suggestions(💡) from community users in the last week. 
+Here is the list of contributors:
+@imknownBydifferentnames : 2 💡 6 🐛
+@𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  : 1 💡 1 🐛
+@zep-excpoint  : 1 🐛
+@Tessal  : 3 🐛
+@Kebabo  : 1 🐛
+@𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  : 1 💡
+@wzy1tenyears  : 1 💡
+
 
 ## 2023Y1M1W
 ### Plan
@@ -114,6 +123,7 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 | @Martinelplayz  | suggestion | random project button & project tags & search mechanics | Collin  | Open  | 2022-12-19 |   |
 | @Pootis  | suggestion | Keyframe Extension | Collin  | Open  | 2022-12-19 |   |
 | @Chemical Coding  | suggestion | Deleting Broadcasts | Collin  | Open  | 2022-12-19 |   |
+
 
 ### Fixed
 - FIXED: Cloud Backpack Issues (reporter: 𝓟𝓪𝓹𝓲𝓬𝓱𝓲05)
