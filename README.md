@@ -27,6 +27,34 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - **Gandi IDE**: HCN
 - **Cocrea**: Collin, LJ, linxin, jagger
 
+## 2023Y1M2W
+### Plan
+
+| Reporter      | type          | Description   | owner         | status        | created_at      | deadline |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- |
+| @imknownBydifferentnames  | bug | Quake freezing my browser then crashing VM  | HCN  | Open  | 2023-01-08 |  |
+| @imknownBydifferentnames  | bug | search barely works  | LJ  | Open  | 2023-01-08 |  |
+| @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  | bug | I cant publish my game or upload it  | linxin  | Open  | 2023-01-08 |  |
+| @zep-excpoint  | bug | a shared imported gandi project just links to my profile  | collin  | Open  | 2023-01-06 |  |
+| @Tessal  | bug | Can't Import file into list  | collin  | Open  | 2023-01-04 |  |
+| @Tessal  | bug | [Translation Bug] Share with Update  | collin  | Open  | 2023-01-04 |  |
+| @imknownBydifferentnames  | bug | all of the code mysteriously disappeared  | collin  | Open  | 2023-01-02 |  |
+| @imknownBydifferentnames  | bug | Mysterious f added to my project link  | linxin  | Open  | 2023-01-02 |  |
+| @imknownBydifferentnames  | bug | Missing translation  | linxin  | Open  | 2023-01-02 |  |
+| @Kebabo  | bug | Project not saved after saving  | linxin  | Done  | 2023-01-03 |  |
+| @imknownBydifferentnames  | bug | Latest version won't publish if uploaded from SB3  | linxin  | Done  | 2023-01-02 |  |
+| @Tessal  | bug | Project not saving  | linxin  | Done  | 2023-01-02 |  |
+| @imknownBydifferentnames  | suggestion | My retinas are burning (dark mode on website)  | linxin  | Open  | 2023-01-08 |  |
+| @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  | suggestion | Please add HD file upload  | linxin  | Open  | 2023-01-08 |  |
+| @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  | suggestion | Display Folders in the main Cloud Backpack Interface  | HCN  | Open  | 2023-01-07 |  |
+| @wzy1tenyears  | suggestion | about this server achieve 500 person's activity and a new NG's get way  | collin  | Open  | 2023-01-04 |  |
+| @imknownBydifferentnames  | suggestion | Custom lazy load video or audio link  | collin  | Open  | 2023-01-02 |  |
+
+### Fixed
+- FIXED: Project not saved after saving (reporter: Kebabo)
+- FIXED: Latest version won't publish if uploaded from SB3 (reporter: imknownBydifferentnames)
+- FIXED: Project not saving (reporter: Tessal)
+
 ## 2023Y1M1W
 ### Plan
 
@@ -89,6 +117,23 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 
 ### Fixed
 - FIXED: Cloud Backpack Issues (reporter: 𝓟𝓪𝓹𝓲𝓬𝓱𝓲05)
+
+
+Community Contributor board(2022/12/26~2023/01/01)
+@Tessal : 6 💡
+@CoolScratcher  : 2 💡 3 🐛
+@Da_Creator  : 1 💡 2 🐛
+@fath11  : 2 🐛
+@Chasma  : 2 🐛
+@𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  : 1 💡 1 🐛
+@labrosggv  : 1 💡 1 🐛
+@unexpectedIntegerNull  : 2 💡
+@span  : 2 💡
+@HexMan  : 1 🐛
+@CupStudios  : 1 💡
+@BANANAKING  : 1 💡
+@Asti  : 1 💡
+@wzy1tenyears  : 1 🐛
 
 ## 2022Y12M3W
 ### Plan
