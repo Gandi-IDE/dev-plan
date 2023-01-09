@@ -53,15 +53,14 @@ Here is the development plan tracking log of the Gandi IDE and Cocrea team, All 
 - FIXED: Project not saving (reporter: Tessal)
 
 ### Community Contributor board(2023/01/02~2023/01/08)
-We have collected bugs(🐛) and suggestions(💡) from community users in the last week. 
-Here is the list of contributors:
-@imknownBydifferentnames : 2 💡 6 🐛
-@𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  : 1 💡 1 🐛
-@zep-excpoint  : 1 🐛
-@Tessal  : 3 🐛
-@Kebabo  : 1 🐛
-@𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  : 1 💡
-@wzy1tenyears  : 1 💡
+
+- @imknownBydifferentnames : 2 💡 6 🐛
+- @𝒔𝒌𝒚𝒅𝒓3𝒙𝒙  : 1 💡 1 🐛
+- @zep-excpoint  : 1 🐛
+- @Tessal  : 3 🐛
+- @Kebabo  : 1 🐛
+- @𝓟𝓪𝓹𝓲𝓬𝓱𝓲05  : 1 💡
+- @wzy1tenyears  : 1 💡
 
 
 ## 2023Y1M1W
